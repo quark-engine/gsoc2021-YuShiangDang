@@ -1,19 +1,19 @@
 # gsoc2021-YuShiangDang
 
-Project Mentor: KunYu Chen, JunWei Song
+Project Mentors: KunYu Chen, JunWei Song
 
 ## Timeline
 **May 31 - June 7**
-- [ ] Improve user experience for quark in Jadx
+- [ ] Improve user experience for Quark in Jadx
 - [ ] Solve the integration issues for Jadx
 
 **June 8 - June 15**
 - [ ] Planning refactor for new rule generation technique
-- [ ] Implement test unit for quark-rule-generate
+- [ ] Implement unit testing for quark-rule-generate
 
 **June 16 - June 30**
 - [ ] Implement new rule generation technique
-- [ ] Testing and comparing the efficiency between new techniques and original ones
+- [ ] Testing and comparing the efficiency between new technique and original ones
 
 **July 1 - July 27**
 - [ ] Familiarize with the MobSF code base, design UI/UX, functionality for quark integration
