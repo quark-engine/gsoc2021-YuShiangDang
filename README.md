@@ -27,8 +27,8 @@ Here is my project proposal: [New Rule Generation Technique & Make Quark Everywh
 - [ ] Testing and comparing the efficiency between new technique and original ones
 
 **July 1 - July 27**
-- [ ] Familiarize with the MobSF code base, design UI/UX, functionality for quark integration
-- [ ] Implement quark integration to MobSF
+- [ ] Familiarize with the MobSF code base, design UI/UX, functionality for Quark integration
+- [ ] Implement Quark integration to MobSF
 - [ ] Testing the integration and submit PR to MobSF
 - [ ] Solve the integration issues for MobSF
 
